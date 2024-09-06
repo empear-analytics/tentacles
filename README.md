@@ -1,5 +1,7 @@
 [![Dependencies Status](https://jarkeeper.com/Raynes/tentacles/status.svg)](https://jarkeeper.com/Raynes/tentacles)
 
+NOT USED ANYMORE.
+
 # An octocat is nothing without her tentacles
 
 Tentacles is a Clojure library for working with the Github v3 API. It supports the entire Github API.
